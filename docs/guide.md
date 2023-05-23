@@ -28,7 +28,7 @@ Check that you have CLR installed. We are currently using **.NET 6**.
 
 - [download and install .NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet)
 
-Find and install the **stock-indicators** Python package into your environment. See [more help](https://packaging.python.org/en/latest/tutorials/installing-packages/) for installing packages.
+Find and install the **stock_indicators** Python package into your environment. See [more help](https://packaging.python.org/en/latest/tutorials/installing-packages/) for installing packages.
 
 ```bash
 # pip example
